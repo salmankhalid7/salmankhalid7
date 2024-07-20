@@ -1,7 +1,7 @@
-🔭 I’m currently working on ... My Web Development skills, Open source, blockchain and bubble projects 🚀!<br>
-🌱 I’m currently learning ... MERN stack, DSA, Ai, Learning new world things in web!
+🔭 I’m currently working on ... My Web Development skills, Open source🚀!<br>
+🌱 I’m currently learning ... MERN stack, DSA, Ai.
 👯 I’m looking to collaborate on ... Any Open Source Project
-🤝 I'm looking to team-up for ... Hackathons, coding events and projects.
+🤝 I'm looking to team-up for ... coding events and projects.
 🤔 I’m looking for help with ... Understanding concepts of DSA
 💬 Ask me about ... Javascript, React.js, CSS, C++, Open-Source.
 ⚡ Fun fact: Very Hardly Wanna be a Geopoltical Analyst 🌎 and an Economist 💹
