@@ -4,7 +4,7 @@
 🤝 I'm looking to team-up for ... coding events and projects.<br>
 🤔 I’m looking for help with ... Understanding concepts of DSA<br>
 💬 Ask me about ... Javascript, React.js, CSS, C++, Open-Source.<br>
-⚡ Fun fact: Very Hardly Wanna be a Geopoltical Analyst 🌎 and an Economist 💹<br>
+⚡ Fun fact: keen to understand Gloabal Economy💹 and an Geopolitcs 🌎<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100090459485287&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__salmankhalid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salman-khalid-1017b2247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__salmankhalid) 
