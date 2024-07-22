@@ -1,5 +1,4 @@
-###Hi <img alt = gif src ="hand.gif" width= "20"/>, I am Abhijay jain ### Hi <img alt = gif src ="hand.gif" width= "20"/>, I am Abhijay jain 
-
+<strong>Hi <img alt = gif src ="hand.gif" width= "20"/>, I am Salman Khalid </strong>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmankhalid7&label=Profile%20views&color=0e75b6&style=flat" alt="salmankhalid7" /> </p>
 
 - 🔭 I’m currently working on **...Web Development skills and Open source🚀!**
