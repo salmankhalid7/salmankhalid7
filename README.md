@@ -1,8 +1,6 @@
-<h3 align="center">A passionate MERN STACK developer from Pakistan</h3>
+###Hi <img alt = gif src ="hand.gif" width= "20"/>, I am Abhijay jain ### Hi <img alt = gif src ="hand.gif" width= "20"/>, I am Abhijay jain 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmankhalid7&label=Profile%20views&color=0e75b6&style=flat" alt="salmankhalid7" /> </p>
-
-<p align="left"> <a href="https://twitter.com/__salmankhalid" target="blank"><img src="https://img.shields.io/twitter/follow/__salmankhalid?logo=twitter&style=for-the-badge" alt="__salmankhalid" /></a> </p>
 
 - 🔭 I’m currently working on **...Web Development skills and Open source🚀!**
 
