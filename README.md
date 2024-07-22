@@ -1,6 +1,6 @@
-<strong>Hi <img alt = gif src ="hand.gif" width= "20"/>, I am Salman Khalid </strong>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmankhalid7&label=Profile%20views&color=0e75b6&style=flat" alt="salmankhalid7" /> </p>
 
+<strong>Hi <img alt = gif src ="hand.gif" width= "20"/>, I am Salman Khalid </strong>
 - 🔭 I’m currently working on **...Web Development skills and Open source🚀!**
 
 - 🌱 I’m currently learning **...MERN stack, DSA, Ai.**
